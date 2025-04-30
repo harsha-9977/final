@@ -4,3 +4,4 @@ joblib
 pandas
 pymongo
 pydeck
+scikit-learn
