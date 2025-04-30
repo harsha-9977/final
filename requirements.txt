@@ -5,3 +5,4 @@ pandas
 pymongo
 pydeck
 scikit-learn
+tornado==6.3.3
